@@ -1,0 +1,228 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #DEDEDE;
+}
+
+.blank{
+    height: 150px;
+    width: 100%;
+    background-color: #DEDEDE;
+}
+.labek{
+    justify-content: center;
+    justify-content: space-around;
+    width: 1100px;
+    /* border: 2px solid white;
+    background-color: red; */
+    display: flex;
+    margin: auto;
+    
+}
+.logo{
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    right: 100px;
+}
+.logo img{
+    width: 100%;
+}
+.connect {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+}
+.connect a{
+    margin: 10px;
+    font-family: 'Monoton', cursive;
+    font-family: 'Noto Serif TC', serif;
+    color: #3B3B3B;
+    font-size: 14px ;
+    letter-spacing: 0.3em;
+    text-decoration: none;
+    font-weight: 900;
+    
+}
+.connecttwo{
+    width: fit-content;
+    height: fit-content;
+    margin-top: 34px;
+    position: relative;
+    right: -50px;
+}
+.connecttwo a {
+    margin: 10px;
+}
+.connecttwo img{
+    width: 35%;
+}
+.raw{
+    width: fit-content;
+    height: fit-content;
+    margin-left: 350px;
+    position: relative;
+    bottom: -70px;
+
+}
+.hja{
+    margin-bottom: 70px;
+}
+
+.hja h2{
+    color: #9A6E6E;
+    font-family: 'Monoton', cursive;
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 900;
+    font-size: 21px;
+    letter-spacing: 0.3em;   
+    margin: 45px;
+    width: fit-content;
+    height: fit-content;
+}
+.qqq p{
+    margin: 45px;
+    font-family: 'Monoton', cursive;
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 900;
+    letter-spacing: 0.5em;  
+    font-size: 14px;
+    margin-left: 120px;
+}
+
+.dsl{
+    width: 79%;
+    height: 500px;
+    background-color: #3B3B3B;
+    margin-left: auto;
+    position: relative;
+    bottom: -200px; 
+}
+.mkooo{
+    position: absolute;
+    left: -270px;   
+    bottom: 10px; 
+    
+}
+.mkooo img{
+width: 80%;
+}
+
+.xxsa {
+    margin-left: 200px;
+    width: fit-content;
+    display: inline-block;
+    margin-top: 50px;
+}
+.xxsa h2{
+    color: #F5F5F5;
+    font-family: 'Monoton', cursive;
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 900;
+    font-size: 21px;
+    letter-spacing: 0.5em;   
+    margin: 15px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.aawl{
+    margin-left: 190px;
+    width: fit-content;
+    display: inline-block;
+    margin-top: 50px;
+  
+}
+.aawl p{
+    margin: 20px;
+    font-family: 'Monoton', cursive;
+    font-family: 'Noto Serif TC', serif;
+    font-weight: 900;
+    letter-spacing: 0.3em;  
+    font-size: 14px;
+    color: #F5F5F5;
+    width: fit-content;
+
+}
+
+.catone{
+    width: 100%;
+    height: 430px;
+    /* background-color: #dd3d3d; */
+    margin-top: 300px;
+    display: flex;
+   justify-content: center;
+
+
+}
+
+.qaws{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    margin: 20px;
+    text-align: center;
+    
+    
+
+    
+  
+}
+
+.iiww{
+
+    width: fit-content;
+    height: fit-content;
+
+
+}
+.iiww img{
+    width: 100%;
+
+}
+
+.ddwe{
+    width: 100%;
+    height: 90px;
+    background-color: #5F4343;
+    position: relative;
+    top: -20px;
+   
+}
+.ddwe a{
+   position: relative;
+   bottom: -30px;
+   text-decoration: none;
+   outline:none;
+   color: #FFFFFF;
+
+} 
+.catonewww{
+    width: 100%;
+    height: 430px;
+    /* background-color: #dd3d3d; */
+    margin-top: 30px;
+    display: flex;
+   justify-content: center;
+
+}
+
+.emd{
+    width: 100%;
+    height: 400px;
+    background-color: #3B3B3B;
+
+    margin-top: 300px;
+}
+
+.aaz{
+    margin-left: 840px;
+   position: relative;
+   bottom: -150px;
+    display:inline
+    }
+.aaz img{
+width: 12%;
+        
+}
+
